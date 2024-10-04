@@ -8,7 +8,7 @@
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
 
-
+Таблица разработчиков skillbox
 |Имя|Фамилия|Отечество|
 |-|--------|---|
 |Никита|Конкин|Алексеевич|
